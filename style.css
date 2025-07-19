@@ -3,8 +3,6 @@ body {
   background-image: url('web design.jpg');background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  margin: 0;
-  padding: 0;
 }
 
 .login-box {
@@ -18,7 +16,7 @@ body {
 
 input[type="text"],
 input[type="password"] {
-  width: 90%;padding: 8px;background-color: rgb(37, 37, 37);
+ padding: 8px; width: 90%;background-color: rgb(37, 37, 37);
   margin: 5px 0;
 }
   
